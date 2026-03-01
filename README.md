@@ -1,5 +1,5 @@
-**Flock-Detector 2.0: XIAO-Powered Surveillance Sniffer
-**An advanced WiFi and BLE (Bluetooth Low Energy) scanning tool built on the Seeed Studio XIAO ESP32-S3. This project identifies and logs surveillance hardware (like Flock Safety cameras and Raven GPS trackers) in real-time with localized GPS and Time data.
+Flock-Detector 2.0: XIAO-Powered Surveillance Sniffer
+An advanced WiFi and BLE (Bluetooth Low Energy) scanning tool built on the Seeed Studio XIAO ESP32-S3. This project identifies and logs surveillance hardware (like Flock Safety cameras and Raven GPS trackers) in real-time with localized GPS and Time data.
 
 🚀 Features
 Dual-Band Scanning: Simultaneous monitoring of 2.4GHz WiFi channels and BLE advertisements.
